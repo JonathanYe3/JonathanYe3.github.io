@@ -1,8 +1,12 @@
 ---
-title: "Home"
+title: "About"
 ---
 
-# Hello, I am Jonathan Ye
-I am an undergraduate senior studying Public Health and Applied Mathematics + Statistics at Homewood. As a child, I enjoyed playing outside and collecting rocks. Here is a picture of me that I use for my Linkedin, and other things.
+# Hi!
+Starting July 2025, I will be/have been working at Epic Systems in Madison, WI as a Technical Solutions engineer. I am a JHU alum, having graduated May 2025 with a BS/MSE in Applied Mathematics + Statistics and a BA in Public Health Studies.
 
 ![](figs/headshot.jpg){ width=300 }
+
+I enjoy learning new math and coding. Public health is interesting, I think it is good to think about research in the context of things that matter a great deal to the general population. I think researchers and scientists tend to only focus on their research/science, and neglect other factors that are also important to consider. For example, I hear a lot of people say that policymakers should just do what science tells them to do, but there are several other things to keep in mind. Feasibility, budget, ethics, and much more are also important.
+
+I am interested primarily in the health sector because I think it could be fulfilling, and am looking for data science jobs because that's where most of my skills lie. 
