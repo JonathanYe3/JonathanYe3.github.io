@@ -2,3 +2,13 @@
 title: "Projects"
 ---
 
+This page is dedicated to current projects (for fun) and past projects that I completed while still in school.
+
+## Dynasty Fantasy Football Project
+
+
+## The Vanciest Project
+This was my final project for Data Science Methods for Large Scale Graphs (EN.553.744). Inspired by the many photoshopped versions of JD vance, this project explores whether graph neural networks (GNNs) are "robust" to a "photoshop" perturbation. The neural networks were trained on clean images of three similar-looking individuals (JD Vance, Chris Pratt, Luka Doncic) and tested on altered ones. It compares an expressive GNN (Graph Isomorphism Network) performance to that of a standard CNN. For more information, 
+[read more](projects/vance.qmd).
+
+

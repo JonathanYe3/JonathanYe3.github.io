@@ -1,9 +1,37 @@
 [
   {
+    "objectID": "projects/vance.html",
+    "href": "projects/vance.html",
+    "title": "The Vanciest Project",
+    "section": "",
+    "text": "merp merp"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
     "section": "",
     "text": "Hi!\nStarting July 2025, I will be/have been working at Epic Systems in Madison, WI as a Technical Solutions engineer. I am a JHU alum, having graduated May 2025 with a BS/MSE in Applied Mathematics + Statistics and a BA in Public Health Studies.\n\nI enjoy learning new math and coding. Public health is interesting, I think it is good to think about research in the context of things that matter a great deal to the general population. I think researchers and scientists tend to only focus on their research/science, and neglect other factors that are also important to consider. For example, I hear a lot of people say that policymakers should just do what science tells them to do, but there are several other things to keep in mind. Feasibility, budget, ethics, and much more are also important.\nI am interested primarily in the health sector because I think it could be fulfilling, and am looking for data science jobs because that’s where most of my skills lie."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page is dedicated to current projects (for fun) and past projects that I completed while still in school."
+  },
+  {
+    "objectID": "Projects.html#dynasty-fantasy-football-project",
+    "href": "Projects.html#dynasty-fantasy-football-project",
+    "title": "Projects",
+    "section": "Dynasty Fantasy Football Project",
+    "text": "Dynasty Fantasy Football Project"
+  },
+  {
+    "objectID": "Projects.html#the-vanciest-project",
+    "href": "Projects.html#the-vanciest-project",
+    "title": "Projects",
+    "section": "The Vanciest Project",
+    "text": "The Vanciest Project\nThis was my final project for Data Science Methods for Large Scale Graphs (EN.553.744). Inspired by the many photoshopped versions of JD vance, this project explores whether graph neural networks (GNNs) are “robust” to a “photoshop” perturbation. The neural networks were trained on clean images of three similar-looking individuals (JD Vance, Chris Pratt, Luka Doncic) and tested on altered ones. It compares an expressive GNN (Graph Isomorphism Network) performance to that of a standard CNN. For more information, read more."
   }
 ]
