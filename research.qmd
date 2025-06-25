@@ -3,3 +3,5 @@ title: "Research"
 format: html
 ---
 
+I could even include the bergey's stuff? It's not all that relevant anymore. Gist is CUNY, JHU (pre msk), MSK, JHU (clustering)
+

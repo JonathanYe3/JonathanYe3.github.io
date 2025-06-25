@@ -3,4 +3,21 @@ title: "The Vanciest Project"
 format: html
 ---
 
-merp merp
+The Vanciest Project investigates the capacity of graph neural networks (GNNs) to identify photoshopped images of JD Vance, a political figure known for his rather shifting public stances. For example:
+* “I’m a never trump guy, I never liked him”
+* “I’m gonna vote third party because I can’t stomach Trump”
+- JD Vance, 2016
+
+The motivation stems from the question: can machines learn to identify manipulated images the same way humans can?
+
+The project collected images of JD Vance, Chris Pratt, and Luka Doncic from various sources including Google Images and social media. A training set of 30 clean images per subject and a smaller test set were created. Faces were detected using a Haar Cascade, cropped to 256x256 pixels, and standardized.
+
+Two models were trained:
+* A traditional convolutional neural network (CNN) with three convolutional layers.
+* A graph-based model using Graph Isomorphism Networks (GINs) with super-pixel graph structures built from neighboring regions based on proximity and color similarity.
+
+Both models were evaluated on their ability to classify photoshopped images. The CNN achieved 56.8% accuracy, while the GNN achieved 62.2%—a modest difference. Surprisingly, despite GNNs’ ability to capture local relationships, CNNs performed comparably well, likely because facial structures are already symmetric and easy to detect with CNNs. The project concluded that although GNNs may not outperform CNNs in this task, further exploration into different features or asymmetric image tasks could reveal their potential.
+
+Future directions include experiments with half-face datasets, adjustments to the graph construction process, and additional fine-tuning of hyperparameters.
+
+
